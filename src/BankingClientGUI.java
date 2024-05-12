@@ -26,7 +26,7 @@ public class BankingClientGUI extends JFrame {
     private void createAndShowGUI() {
         setTitle("Banking Client");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(500, 400);
+        setSize(600, 600);
         setLayout(new BorderLayout());
 
         // Connection Panel
